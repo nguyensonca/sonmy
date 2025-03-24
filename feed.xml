@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>20 Năm - Cựu Học Sinh Sơn Mỹ</title>
+    <link href="https://sonmy20nam.com/feed.xml" rel="self" />
+    <link href="https://sonmy20nam.com" />
+    <updated>2025-03-24T16:21:14+07:00</updated>
+    <author>
+        <name>Sơn Mỹ</name>
+    </author>
+    <id>https://sonmy20nam.com</id>
+
+    <entry>
+        <title>ok</title>
+        <author>
+            <name>Sơn Mỹ</name>
+        </author>
+        <link href="https://sonmy20nam.com/ok.html"/>
+        <id>https://sonmy20nam.com/ok.html</id>
+
+        <updated>2025-03-24T16:21:14+07:00</updated>
+            <summary>
+                <![CDATA[
+                    ok
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ok</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
